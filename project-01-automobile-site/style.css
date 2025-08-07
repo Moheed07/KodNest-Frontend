@@ -45,7 +45,6 @@ nav a.active {
 
 /* Hero Section */
 .hero {
-  /* Remove old styles if present */
   /* This ensures no conflicting styles if .hero was styled before */
   all: unset;
 }
@@ -54,7 +53,7 @@ nav a.active {
   position: relative;
   width: 100%;
   min-height: 60vh;
-  background-image: linear-gradient(rgba(15, 12, 41, 0.5), rgba(48, 43, 99, 0.3)), url('images/hero-car.png');
+  background-image: linear-gradient(rgba(15, 12, 41, 0.5), rgba(48, 43, 99, 0.3)), url('assets/images/hero-car.png');
   background-size: cover;
   background-position: center;
   display: flex;
