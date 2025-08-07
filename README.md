@@ -1,5 +1,5 @@
 # 🚀 KodNest Full-Stack Development Course Projects
-=====================================
+============================================================================================
 This repository contains the projects I completed while learning full-stack development at KodNest. The primary focus of these projects is on frontend development, showcasing my skills in building user interfaces and interactive web applications. 💻
 
 The projects are a practical application of the concepts and technologies covered in the course and demonstrate my proficiency in a range of technologies, including:
